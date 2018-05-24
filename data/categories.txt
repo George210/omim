@@ -9102,7 +9102,7 @@ ar:^متجر متنوع\n
 cs:^Smíšené zboží
 da:^Småtingsbutik
 de:^Billigladen
-el:^Ψιλικατζίδικο
+el:^Παντοπωλείο
 es:^«Todo a cien»
 fi:^Halpakauppa
 fr:^Bazar
